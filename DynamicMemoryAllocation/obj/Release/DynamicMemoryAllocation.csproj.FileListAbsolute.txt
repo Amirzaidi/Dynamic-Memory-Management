@@ -1,0 +1,4 @@
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryAllocation\bin\Release\DynamicMemoryAllocation.dll
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryAllocation\bin\Release\DynamicMemoryAllocation.pdb
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryAllocation\obj\Release\DynamicMemoryAllocation.dll
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryAllocation\obj\Release\DynamicMemoryAllocation.pdb

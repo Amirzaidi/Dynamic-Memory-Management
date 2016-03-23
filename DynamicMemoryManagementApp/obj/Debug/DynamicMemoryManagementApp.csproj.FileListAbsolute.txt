@@ -1,0 +1,8 @@
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryManagementApp\bin\Debug\DynamicMemoryManagementApp.exe.config
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryManagementApp\bin\Debug\DynamicMemoryManagementApp.exe
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryManagementApp\bin\Debug\DynamicMemoryManagementApp.pdb
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryManagementApp\bin\Debug\DynamicMemoryAllocation.dll
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryManagementApp\bin\Debug\DynamicMemoryAllocation.pdb
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryManagementApp\obj\Debug\DynamicMemoryManagementApp.csprojResolveAssemblyReference.cache
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryManagementApp\obj\Debug\DynamicMemoryManagementApp.exe
+c:\users\amir\documents\visual studio 2015\Projects\DynamicMemoryManagementApp\DynamicMemoryManagementApp\obj\Debug\DynamicMemoryManagementApp.pdb
